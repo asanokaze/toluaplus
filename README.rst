@@ -1,3 +1,11 @@
+
+note:
+
+this is just a tolua++ 1.0.93 mirror on github, with a tup project file tested on Mac
+OS X
+
+--separator--
+
 This is tolua++-1.0
 
 * What is tolua++?
