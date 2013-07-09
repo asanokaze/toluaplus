@@ -1,0 +1,5 @@
+
+INC = -I../../include
+
+: foreach *.c |> gcc $(INC) -c -o %o %f |> %B.o {bin_objs}
+

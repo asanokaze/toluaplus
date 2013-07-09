@@ -1,0 +1,6 @@
+/bin/tolua++
+
+*.o
+
+.tup
+
